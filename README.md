@@ -11,6 +11,7 @@
   * [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
   * [esx_addoninventory](https://github.com/ESX-Org/esx_addoninventory)
   * [cron](https://github.com/ESX-Org/cron)
+  * [esx_migrate](https://github.com/ESX-Org/esx_migrate)
 
 ## Download & Installation
 
