@@ -30,6 +30,15 @@ client_scripts {
 	'client/main.lua'
 }
 
-dependency 'es_extended'
+dependencies {
+	'es_extended',
+	'esx_society',
+	'esx_billing',
+	'esx_addonaccount',
+	'esx_addoninventory',
+	'cron'
+}
 
-export 'GeneratePlate'
+export {
+	'GeneratePlate'
+}
